@@ -1,0 +1,23 @@
+id,"type(0: Texture, 1: Font, 2: Sound "
+graphics/ammo_icon.png,0
+graphics/ammo_pickup.png,0
+graphics/background.png,0
+graphics/background_originalsize.png,0
+graphics/background_sheet.png,0
+graphics/bloater.png,0
+graphics/blood.png,0
+graphics/chaser.png,0
+graphics/crawler.png,0
+graphics/crosshair.png,0
+graphics/health_pickup.png,0
+graphics/player.png,0
+graphics/sample.png,0
+graphics/bullet.png,0
+fonts/zombiecontrol.ttf,1
+sound/hit.wav,2
+sound/pickup.wav,2
+sound/powerup.wav,2
+sound/reload.wav,2
+sound/reload_failed.wav,2
+sound/shoot.wav,2
+sound/splat.wav,2
